@@ -7,6 +7,7 @@ layout: default
 	<p>I'm a Software Programmer (Lisp)</p>
 </div><!-- /.blurb -->
 
+# Blog posts
 <ul>
   {% for post in site.posts %}
     <li>
