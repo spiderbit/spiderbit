@@ -1,8 +1,10 @@
+#+BEGIN_HTML
 ---
 layout: post
 title: "Stefan Huchler, Launches Site"
 date: 2017-01-27
 ---
+#+END_HTML
 
 * Test topic 1
 
