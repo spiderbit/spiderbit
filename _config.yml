@@ -2,3 +2,5 @@ name: Stefan Huchler
 markdown: md
 exclude: 
   - _posts/*.org
+
+theme: jekyll-theme-hacker
