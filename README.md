@@ -1,2 +1,0 @@
-# spiderbit.github.io
-website
