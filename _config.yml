@@ -1,3 +1,4 @@
 name: Stefan Huchler
 markdown: md
-exclude: [_posts/*.org]
+exclude: 
+  - _posts/*.org
