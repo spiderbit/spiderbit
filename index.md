@@ -1,6 +1,6 @@
 ---
-title: Stefan Huchler
-layout: post
+title: Stefan Huchler's blog
+layout: blog
 ---
 <div class="blurb">
 	<h1>Hi there, I'm Stefan Huchler!</h1>
