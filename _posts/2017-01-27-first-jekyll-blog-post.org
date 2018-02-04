@@ -1,4 +1,8 @@
-#+TITLE: First jekyll blog post
+---
+layout: post
+title: "Stefan Huchler, Launches Site"
+date: 2017-01-27
+---
 
 * Test topic 1
 
